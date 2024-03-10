@@ -1,5 +1,5 @@
 
-___________________ I am dividing this README.md file into five parts __________________
+___________________ I am dividing this README.md file into Three parts __________________
  
  ************ Using Technology Part ( 1 )
 
